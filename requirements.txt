@@ -1,0 +1,5 @@
+lxml==4.9.1
+pycopy-webbrowser==0.0.0
+requests==2.28.1
+web.py
+beautifulsoup4==4.11.1
